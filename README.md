@@ -52,14 +52,6 @@ Sistema completo para gerenciamento de transporte escolar.
 
 ---
 
-## 🔥 Sequência de Evolução
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=LeonardoGambarato&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/leonardo-gambarato-40aa8a233/
