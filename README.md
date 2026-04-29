@@ -1,4 +1,4 @@
-# Eu sou Leonardo Gambarato 👋
+# SOBRE MIM
 
 💻 Desenvolvedor Backend focado em Java e construção de sistemas reais.  
 🚀 Atualmente desenvolvendo projetos com Spring Boot, PostgreSQL e APIs REST.  
